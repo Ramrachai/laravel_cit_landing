@@ -1,0 +1,8 @@
+#banner {
+    max-height: 400px;
+    overflow: hidden;
+}
+.banner_input.form-control{
+    height: auto;
+    display: none;
+}
