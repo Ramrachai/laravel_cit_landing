@@ -39,6 +39,13 @@
                         </div>
                     </ul>
                 </li>
+                <li class="has-sub active expand">
+                    <a class="sidenav-item-link" href="{{ route('about.index') }}" 
+                    >
+                    <i class="mdi mdi-image-outline"></i>
+                    <span class="nav-text">About</span> 
+                </a>
+                </li>
             </ul>
         </div>
     </div>
